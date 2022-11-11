@@ -13,5 +13,6 @@ Software Engineer Student, 4th Year
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thatch186)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thatch186&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thatch186&show_icons=true&count_private=true)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourRepositoryName)
 
